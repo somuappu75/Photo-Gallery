@@ -1,5 +1,6 @@
 ![Jekyll Lens](https://i.imgur.com/Qi7gdQC.png)
-
+# Demo
+[Click here Form Demo](https://somuappu75.github.io/Photo-Gallery/)
 # Lens
 *A Jekyll website  for photographers and photo bloggers.*
 
