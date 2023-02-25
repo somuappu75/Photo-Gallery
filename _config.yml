@@ -10,7 +10,7 @@ copyright: "Copyright &copy; 2023 - Developer Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Lens-Gallery"
 # 2nd heading/sub heading of the website.
 subheader: "Elastic Designs"
 # A description/bio of the website.
@@ -23,7 +23,7 @@ social:
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: "somuappu75"
   # Your email address.
   email: ""
 
