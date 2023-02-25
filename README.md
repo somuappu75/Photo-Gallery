@@ -46,7 +46,7 @@ If you have a bug or an idea, feel free to open a [new issue](https://github.com
 
 #### Want to contribute?
 If you want to contribute, make your changes or enhancements and [open a
-pull request](https://github.com/ElasticDesigns/jekyll-lens/compare).
+pull request](https:https://somuappu75.github.io/Photo-Gallery/compare).
 
 > Feedback and bug reports are not only welcome, but strongly encouraged. 😄
 
