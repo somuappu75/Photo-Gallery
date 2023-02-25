@@ -10,11 +10,11 @@ copyright: "Copyright &copy; 2023 - Developer Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens-Gallery"
+header: "SP-Gallery"
 # 2nd heading/sub heading of the website.
 subheader: "Developer Designs"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "A Jekyll theme for Developer Motivation Quotes And Bloggers."
 social:
   # Your Twitter username.
   twitter_username: ""
